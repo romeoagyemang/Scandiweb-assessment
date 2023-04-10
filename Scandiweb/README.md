@@ -1,2 +1,2 @@
-SQL script to create database and tables is present in **database.sql** file.
+The Sql script should be located in the database.sql
 
